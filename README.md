@@ -1,3 +1,2 @@
 # abrador-test
-welcome
-This repository is for trial use.
+Welcome. This repository is for trial use.
